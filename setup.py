@@ -4,8 +4,8 @@ DISCORD_ID = "enter discord id here"
 REFRESH_INTERVAL = 5 # in seconds
 
 emojis = {
-    "emoji_one": ":emoji_one:",
-    "emoji_two": ":emoji_two:",
+    "music": ":emoji_one:",
+    "code": ":emoji_two:",
     "default": ":default_emoji:"
 }
 
