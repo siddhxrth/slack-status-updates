@@ -1,4 +1,4 @@
-# slack status updates
+# slack status updates ⚡️
 ### updates your slack status based on your discord rich presence using the data from the lanyard service
 
 #### setup:
